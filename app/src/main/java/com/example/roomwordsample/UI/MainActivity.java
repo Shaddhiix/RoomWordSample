@@ -1,8 +1,10 @@
-package com.example.roomwordsample;
+package com.example.roomwordsample.UI;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.roomwordsample.R;
 
 public class MainActivity extends AppCompatActivity {
 
